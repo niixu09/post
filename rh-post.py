@@ -1,8 +1,8 @@
-import apostu
+import postu
 
 def main():
 
-    apostu.main()
+    postu.main()
 
 if __name__ == "__main__":
     main()
