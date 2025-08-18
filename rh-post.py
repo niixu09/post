@@ -1,8 +1,8 @@
-import postu
+import apostt
 
 def main():
 
-    postu.main()
+    apostt.main()
 
 if __name__ == "__main__":
     main()
